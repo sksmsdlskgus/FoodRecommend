@@ -1,4 +1,4 @@
-# 夜 야간주행 프로젝트
+# 夜 야간주행 프로젝트 (최우수상)
 
 <img width="607" alt="야간주행 1 ( 시작화면 )" src="https://github.com/user-attachments/assets/e8b2e8be-e98a-4a32-b384-210436e77b94" />
 
